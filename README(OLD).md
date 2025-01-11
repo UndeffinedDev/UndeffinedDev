@@ -13,7 +13,7 @@ Here are some of the key projects hosted on this repository or linked to my prof
 
 ## Technologies and Tools
 
-- **Languages**: Python, Java, C++, HTML, JavaScript
+- **Languages**: Python, Java, HTML, JavaScript
 - **Frameworks**: SWT, Swing, JavaFX, Bukkit/Spigot (Minecraft)
 - **Tools**: Tailwind CSS, Maven, SQLite, MySQL
 - **Version Control**: Git and GitHub
