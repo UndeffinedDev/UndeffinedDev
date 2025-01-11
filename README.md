@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio Caguana</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-- 🔭 I’m currently working on [DConfig](home.com)
+- 🔭 I’m currently working on [DConfig](https://github.com/UndeffinedDev/dconfig)
 
 - 🌱 I’m currently learning **Kotlin, Dart, Flutter**
   
