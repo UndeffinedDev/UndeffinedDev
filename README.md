@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sergio Caguana</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-- 🔭 I’m currently working on [DConfig](https://github.com/UndeffinedDev/dconfig)
+- 🔭 I’m currently working on [DConfig](https://github.com/UndeffinedDev/dconfig) & [McStatusIO](https://github.com/UndeffinedDev/mcstatus-io)
 
 - 🌱 I’m currently learning **Kotlin, Dart, Flutter**
   
 - ✨ Creating bugs since 2023
 
 <h3 align="left">Connect with me:</h3>
+<h4>E-Mail: undeffineddev419@proton.me</h5>
+<h4>Discord: santicraft234yt</h5> 
+<i>(I haven't changed that name since 2020... although it gives me cringe.)</i>
 <img src="https://lanyard.cnrad.dev/api/765726694450659358"></img>
 
 <h3 align="left">Languages and Tools:</h3>
