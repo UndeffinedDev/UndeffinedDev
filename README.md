@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [DConfig](https://github.com/UndeffinedDev/dconfig) & [McStatusIO](https://github.com/UndeffinedDev/mcstatus-io)
 
-- 🌱 I’m currently learning **Kotlin, Dart, Flutter**
+- 🌱 I’m currently learning **Tyscript**
   
 - ✨ Creating bugs since 2023
 
