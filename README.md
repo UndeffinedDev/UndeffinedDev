@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [DConfig](https://github.com/UndeffinedDev/dconfig) & [McStatusIO](https://github.com/UndeffinedDev/mcstatus-io)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript** and trying learn **C++** *someday * 
   
 - ✨ Creating bugs since 2023
 
