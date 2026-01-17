@@ -8,4 +8,4 @@
 - ✨ Creating bugs since 2023
 
 <h3 align="left">Connect with me:</h3>
-<h4>E-Mail: undeffineddev419@proton.me</h4>
+<h4>E-Mail: undeffineddev419@gmail.com</h4>
